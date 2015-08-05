@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/steelbrain/smart-cache/issues"
   },
-  "homepage": "https://github.com/steelbrain/smart-cache#readme"
+  "homepage": "https://github.com/steelbrain/smart-cache#readme",
+  "dependencies": {
+    "lru-cache": "^2.6.5"
+  }
 }
