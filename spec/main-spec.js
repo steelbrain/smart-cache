@@ -19,7 +19,6 @@ describe('smart-cache', function() {
       }).then(function(contents) {
         expect(contents).toBe(`something\n`)
         expect(new Date() - timeStart).toBeLessThan(Diff)
-        return smartCache.get(`${__dirname}/fixtures/test.txt`)
       })
     })
   })
