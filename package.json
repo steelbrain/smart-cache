@@ -1,5 +1,5 @@
 {
-  "name": "smart-cache",
+  "name": "sb-smart-cache",
   "version": "0.0.1",
   "description": "A smart NodeJS file cache that fits everywhere!",
   "main": "lib/main.js",
