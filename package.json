@@ -1,0 +1,23 @@
+{
+  "name": "smart-cache",
+  "version": "0.0.1",
+  "description": "A smart NodeJS file cache that fits everywhere!",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelbrain/smart-cache.git"
+  },
+  "keywords": [
+    "cache",
+    "file"
+  ],
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/smart-cache/issues"
+  },
+  "homepage": "https://github.com/steelbrain/smart-cache#readme"
+}
