@@ -2,7 +2,7 @@
   "name": "sb-smart-cache",
   "version": "0.0.5",
   "description": "A smart NodeJS file cache that fits everywhere!",
-  "main": "lib/main.js",
+  "main": "dist/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
